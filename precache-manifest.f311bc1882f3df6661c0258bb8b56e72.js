@@ -1,6 +1,6 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "98ece10489a33162c9d95a4f8e1346a6",
+    "revision": "1572351859438dac94853e99f5f918b1",
     "url": "/sparql-browser/index.html"
   },
   {
