@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.js": "/sparql-browser/static/js/main.78d30366.chunk.js",
+    "main.js.map": "/sparql-browser/static/js/main.78d30366.chunk.js.map",
+    "runtime-main.js": "/sparql-browser/static/js/runtime-main.e4288e23.js",
+    "runtime-main.js.map": "/sparql-browser/static/js/runtime-main.e4288e23.js.map",
+    "static/css/2.74189dbb.chunk.css": "/sparql-browser/static/css/2.74189dbb.chunk.css",
+    "static/js/2.bd8c5730.chunk.js": "/sparql-browser/static/js/2.bd8c5730.chunk.js",
+    "static/js/2.bd8c5730.chunk.js.map": "/sparql-browser/static/js/2.bd8c5730.chunk.js.map",
+    "index.html": "/sparql-browser/index.html",
+    "precache-manifest.2aed98b7ce0ab2ce44e1b40e50c8f17f.js": "/sparql-browser/precache-manifest.2aed98b7ce0ab2ce44e1b40e50c8f17f.js",
+    "service-worker.js": "/sparql-browser/service-worker.js",
+    "static/css/2.74189dbb.chunk.css.map": "/sparql-browser/static/css/2.74189dbb.chunk.css.map",
+    "static/js/2.bd8c5730.chunk.js.LICENSE.txt": "/sparql-browser/static/js/2.bd8c5730.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.e4288e23.js",
+    "static/css/2.74189dbb.chunk.css",
+    "static/js/2.bd8c5730.chunk.js",
+    "static/js/main.78d30366.chunk.js"
+  ]
+}
